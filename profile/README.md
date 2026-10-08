@@ -1,25 +1,21 @@
-<div align="center">
-
 # Settla Labs
 
-_Peer-to-peer marketplace trades settled with USDC on Stellar._
+Peer-to-peer marketplace trades settled with USDC on Stellar.
 
-[![settla-app](https://img.shields.io/badge/settla-app-fbbf24?style=for-the-badge)](https://github.com/settla-labs/settla-app)
-
-</div>
-
-## What we do
+**Built on Stellar. Runs on Soroban.**
 
 Settla connects marketplace activity with Stellar wallet actions: people publish offers, open trades, coordinate local payment, and settle the crypto side with USDC.
 
-1. **Offer to settlement** — A full flow — publish an offer, open a trade, chat with the counterparty, upload evidence, and settle.
-2. **Wallet auth, no keys shared** — Users sign a short-lived challenge to authenticate; their private key never touches Settla.
-3. **Escrow status in view** — Escrow state and payment instructions are visible at each step of the trade.
+## Why Settla belongs on Stellar
 
-## Build
+Stellar is where value should move — open, fast, and cheap — and Soroban is where the rules should live. That is exactly how this project is put together.
 
-`Next.js` · `TypeScript` · `NestJS` · `Stellar`
+- Offer to settlement — A full flow — publish an offer, open a trade, chat with the counterparty, upload evidence, and settle.
+- Wallet auth, no keys shared — Users sign a short-lived challenge to authenticate; their private key never touches Settla.
+- Escrow status in view — Escrow state and payment instructions are visible at each step of the trade.
 
----
+→ https://github.com/settla-labs/settla-app
 
-Start here: [settla-labs/settla-app](https://github.com/settla-labs/settla-app)
+[🌌 stellar.org](https://stellar.org) · [📚 docs](https://developers.stellar.org)
+
+``Next.js` · `TypeScript` · `NestJS` · `Stellar``
