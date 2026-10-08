@@ -2,45 +2,24 @@
 
 # Settla Labs
 
-**Peer-to-peer marketplace trades settled with USDC on Stellar.**
+_Peer-to-peer marketplace trades settled with USDC on Stellar._
 
-Settla connects marketplace activity with Stellar wallet actions: people publish offers, open trades, coordinate local payment, and settle the crypto side with USDC.
-
-[![Settla](https://img.shields.io/badge/settla-app-live-7c3aed?style=for-the-badge)](https://github.com/settla-labs/settla-app)
-[![Stellar](https://img.shields.io/badge/Stellar-testnet-black?style=for-the-badge&logo=stellar)](https://developers.stellar.org)
+[![settla-app](https://img.shields.io/badge/settla-app-fbbf24?style=for-the-badge)](https://github.com/settla-labs/settla-app)
 
 </div>
 
----
-
-## What we build
-
-- **Offer to settlement** — A full flow — publish an offer, open a trade, chat with the counterparty, upload evidence, and settle.
-- **Wallet auth, no keys shared** — Users sign a short-lived challenge to authenticate; their private key never touches Settla.
-- **Escrow status in view** — Escrow state and payment instructions are visible at each step of the trade.
-
-## Featured project
-
-### [settla-app](https://github.com/settla-labs/settla-app)
+## What we do
 
 Settla connects marketplace activity with Stellar wallet actions: people publish offers, open trades, coordinate local payment, and settle the crypto side with USDC.
 
-## Quick links
+1. **Offer to settlement** — A full flow — publish an offer, open a trade, chat with the counterparty, upload evidence, and settle.
+2. **Wallet auth, no keys shared** — Users sign a short-lived challenge to authenticate; their private key never touches Settla.
+3. **Escrow status in view** — Escrow state and payment instructions are visible at each step of the trade.
 
-| Resource | Link |
-| -------- | ---- |
-| Repository | [settla-labs/settla-app](https://github.com/settla-labs/settla-app) |
-
-## Stack
+## Build
 
 `Next.js` · `TypeScript` · `NestJS` · `Stellar`
 
 ---
 
-<div align="center">
-
-**Built in public. Fork it. Ship it.**
-
-[Explore Settla →](https://github.com/settla-labs/settla-app)
-
-</div>
+Start here: [settla-labs/settla-app](https://github.com/settla-labs/settla-app)
